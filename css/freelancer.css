@@ -79,6 +79,8 @@ header .container {
 header img {
   display: block;
   margin: 0 auto 20px;
+  border-radius: 50%;
+  border: 5px solid white;
 }
 header .intro-text .name {
   display: block;
